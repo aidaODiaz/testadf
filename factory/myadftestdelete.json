@@ -1,0 +1,9 @@
+{
+	"name": "myadftestdelete",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "81e2d916-84ea-450c-9a23-bc299d53dab4",
+		"tenantId": "35595a02-4d6d-44ac-99e1-f9ab4cd872db"
+	}
+}
